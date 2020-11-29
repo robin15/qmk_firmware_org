@@ -32,4 +32,6 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 
 ## Official website
 
-[http://qmk.fm](http://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+[http://qmk.fm](http://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.  
+
+This source code is developed with reference to that of marksard-san.
