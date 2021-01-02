@@ -40,7 +40,7 @@ Vagrant.configure(2) do |config|
     # Customize the amount of memory on the VM:
     vmw.memory = "512"
   end
-
+  config.vm.synced_folder ".", "/vagrant"
   config.vm.provider "vmware_fusion" do |vmf|
     # Hide the vmfare GUI when booting the machine
     vmf.gui = false
